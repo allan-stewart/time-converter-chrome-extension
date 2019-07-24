@@ -1,0 +1,11 @@
+{
+    "name": "Timestamp Converter",
+    "version": "0.0.1",
+    "description": "Helpful utility for viewing timestamps in UTC and local times",
+    "browser_action":
+    {
+        "default_icon": "clock.png",
+        "default_popup": "popup.html"
+    },
+    "manifest_version": 2
+}
